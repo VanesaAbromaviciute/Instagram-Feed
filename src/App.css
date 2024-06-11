@@ -1,0 +1,45 @@
+.ig-feedCard-infoUserName {
+  opacity: .6;
+  color:#fff
+}
+
+.ig-feedCard-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 1000px;
+}
+
+.ig-feedCard-button {
+  width: 40px;
+  height: 40px;
+  gap: 2px;
+  margin-bottom: 20px;
+}
+
+.ig-feedCard-UserName {
+color: #fff;
+margin-right: 16px;
+}
+
+.ig-feedCard-button:hover {
+  width: 40px;
+  height: 40px;
+  gap: 2px;
+  margin-bottom: 20px;
+  opacity: .8;
+}
+
+.ig-feedCard-button.isLiked {
+  width: 40px;
+  height: 40px;
+  gap: 2px;
+  margin-bottom: 20px;
+  background-color:rgb(249, 108, 108) ;
+}
+.ig-feedCard-button.isLiked:hover {
+  width: 40px;
+  height: 40px;
+  gap: 2px;
+  margin-bottom: 20px;
+  background-color:rgba(249, 108, 108, 0.451) ;
+}
